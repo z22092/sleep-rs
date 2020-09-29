@@ -1,11 +1,13 @@
 {
   "name": "sleep-rs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "set timeout in rust",
   "main": "index.js",
   "scripts": {
     "test": "",
-    "install": "cargo build --release"
+    "install": "cargo build",
+    "build": "cargo build",
+    "build-release": "cargo build --release"
   },
   "homepage": "https://github.com/z22092/sleep-rs#README",
   "author": "Jefferson Venceslau <jeff.venceslau@gmail.com>",
