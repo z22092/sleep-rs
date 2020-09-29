@@ -4,8 +4,10 @@
   "description": "set timeout in rust",
   "main": "index.js",
   "scripts": {
-    "test": ""
+    "test": "",
+    "install": "cargo build --release"
   },
+  "homepage": "https://github.com/z22092/sleep-rs#README",
   "author": "Jefferson Venceslau <jeff.venceslau@gmail.com>",
   "license": "MIT"
 }
