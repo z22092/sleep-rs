@@ -1,0 +1,11 @@
+{
+  "name": "sleep-rs",
+  "version": "0.0.1",
+  "description": "set timeout in rust",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Jefferson Venceslau <jeff.venceslau@gmail.com>",
+  "license": "MIT"
+}

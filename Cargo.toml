@@ -1,0 +1,11 @@
+[package]
+name = "sleep_timer"
+version = "0.1.0"
+authors = ["Jefferson Venceslau <jeff.venceslau@gmail.com>"]
+edition = "2018"
+
+[lib]
+crate-type=["cdylib"]
+
+[dependencies]
+nodejs-sys = "0.8.0"
