@@ -1,5 +1,5 @@
 [package]
-name = "sleep_timer"
+name = "sleep-rs"
 version = "0.1.0"
 authors = ["Jefferson Venceslau <jeff.venceslau@gmail.com>"]
 edition = "2018"
